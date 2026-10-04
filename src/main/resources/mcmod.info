@@ -1,0 +1,11 @@
+[{
+  "modid": "petrochem",
+  "name": "NTM Petrochem",
+  "description": "Deep petrochemical & plastics toolchain addon for HBM's NTM: Cursed Edition — steam cracking, polymerization, alkylation and more, turning oil and gas into plastics, synthetic fuels and solvents.",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "authorList": ["DogPound"],
+  "credits": "Built on HBM's Nuclear Tech: Cursed Edition",
+  "dependencies": ["hbm"]
+}]
